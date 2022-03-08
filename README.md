@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on "i dont know yet"
 - 📫 How to reach me 
 Linkedin : https://www.linkedin.com/in/abdelrhamn-shaheen-331b44193/
-facebook : https://www.facebook.com/abdelrahman.shah
+
 
 <!---
 AbdelrahmanShaheen/AbdelrahmanShaheen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
