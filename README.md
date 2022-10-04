@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AbdelrahmanShaheen
 - 👀 I’m interested in software engineering
-- 🌱 I’m currently learning advanced data structures
+- 🌱 I’m currently learning Nodejs for Backend development
 - 💞️ I’m looking to collaborate on "i dont know yet"
 - 📫 How to reach me 
 Linkedin : https://www.linkedin.com/in/abdelrhamn-shaheen-331b44193/
