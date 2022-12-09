@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/AbdelrahmanShaheen?tab=repositories](https://github.com/AbdelrahmanShaheen?tab=repositories)
 
-- 📝 I'll write articles on [DB ,OOP ,Networks on backend](DB ,OOP ,Networks on backend)
+- 📝 I'll write articles on [DB ,OOP ,Networks on backend]
 
 - 💬 Ask me about **Javascript ,programming fundamentals**
 
