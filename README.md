@@ -15,7 +15,7 @@
 
 - 📝 I'll write articles on [DB ,OOP ,Networks on backend]
 
-- 💬 Ask me about **Javascript ,programming fundamentals**
+- 💬 Ask me about **Javascript/Nodejs ,programming fundamentals**
 
 - 📫 How to reach me **https://www.linkedin.com/in/abdelrahman-shaheen-3b03281a7/**
 
